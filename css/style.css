@@ -405,6 +405,7 @@
     font-weight: 400;
     line-height: 24px;
     letter-spacing: 0.2px;
+    margin-bottom: 30px;
 }
 
 .news__btn {
@@ -417,13 +418,13 @@
     background-color: transparent;
     border: none;
     border-bottom: 1px solid  gray;
-    padding-top: 17px;
+    padding-top: 17x;
     padding-bottom: 7px;
-    padding-left: 15px;
+    padding-left: 15px;p
 }
 
 .news__btn > img {
-    margin-left: 124px;
+    margin-left: 93px;
     margin-bottom: -6px;
 }
 
