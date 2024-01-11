@@ -420,12 +420,12 @@
     border-bottom: 1px solid  gray;
     padding-top: 17x;
     padding-bottom: 7px;
-    padding-left: 15px;p
+    padding-left: 15px;
 }
 
 .news__btn > img {
-    margin-bottom: -6px;
     margin-left: 93px;
+    margin-bottom: -6px;
 }
 
 .bottom {
